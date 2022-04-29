@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 line 1 in remote (main) 
+=======
+line 1 in locale 
+line 2 (branch1)
+>>>>>>> branch1
